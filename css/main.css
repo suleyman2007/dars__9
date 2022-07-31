@@ -11,13 +11,11 @@ body {
 }
 
 .container {
-  max-width: 1140px;
-  padding: 0 15;
+  max-width: 1110px;
   margin: 0 auto;
 }
 
 .card__wrapper {
-  padding: 140px;
   background-color: #004047;
   background-image: url("../../img/left.png"), url("../../img/right.png");
   background-repeat: no-repeat;
